@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vanish</string>
+    <string name="account_hint">请输入您的账号</string>
+    <string name="password_hint">请输入您的密码</string>
+    <string name="login_text">登录</string>
+    <string name="forget_password_text">忘记密码</string>
+    <string name="chat_text">聊天</string>
+    <string name="address_text">通讯录</string>
+    <string name="app_text">应用</string>
+    <string name="mine_text">我的</string>
+</resources>
